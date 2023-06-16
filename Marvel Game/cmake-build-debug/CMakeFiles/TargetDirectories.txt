@@ -1,0 +1,3 @@
+/Users/mabrams/Desktop/Marvel Game/cmake-build-debug/CMakeFiles/Marvel_Game.dir
+/Users/mabrams/Desktop/Marvel Game/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mabrams/Desktop/Marvel Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
